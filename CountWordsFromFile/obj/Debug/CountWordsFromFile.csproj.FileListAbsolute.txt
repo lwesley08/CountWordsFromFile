@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CountWordsFromFile\CountWordsFromFile\bin\Debug\CountWordsFromFile.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CountWordsFromFile\CountWordsFromFile\bin\Debug\CountWordsFromFile.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CountWordsFromFile\CountWordsFromFile\bin\Debug\CountWordsFromFile.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CountWordsFromFile\CountWordsFromFile\obj\Debug\CountWordsFromFile.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CountWordsFromFile\CountWordsFromFile\obj\Debug\CountWordsFromFile.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CountWordsFromFile\CountWordsFromFile\obj\Debug\CountWordsFromFile.pdb
